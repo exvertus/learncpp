@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz2", "Quiz2.vcxproj", "{4B1906CC-417B-4ADC-9149-66A5529B6E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Debug|x64.ActiveCfg = Debug|x64
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Debug|x64.Build.0 = Debug|x64
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Debug|x86.Build.0 = Debug|Win32
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Release|x64.ActiveCfg = Release|x64
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Release|x64.Build.0 = Release|x64
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Release|x86.ActiveCfg = Release|Win32
+		{4B1906CC-417B-4ADC-9149-66A5529B6E9F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8A13B6-E38B-4A9F-9F09-DF4BEA261CC3}
+	EndGlobalSection
+EndGlobal
