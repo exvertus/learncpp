@@ -37,6 +37,7 @@
 /Debug/
 /Release/
 /out/
+**/out/
 /bin/
 /obj/
 
